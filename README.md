@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working as a Data Engineer, specializing in a TypeScript and Node.js environment. I perform web scraping using Playwright and have one year of industry experience. My goal is to become a full-stack developer.
+I am Mohammed Khaleelulah, a Data Engineer with one year of industry experience specializing in TypeScript and Node.js. I have expertise in web scraping using Playwright and a strong foundation in MongoDB, NestJS, and web development. I am passionate about building efficient and scalable solutions, with a goal to become a full-stack developer. I continuously seek opportunities to enhance my skills in front-end frameworks like React and backend technologies, aiming to deliver impactful, user-centric applications.
 
 
 ## 🌐 Socials:
