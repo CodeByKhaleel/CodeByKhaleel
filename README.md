@@ -61,6 +61,16 @@ I am Mohammed Khaleelulah, a Data Engineer with one year of industry experience 
     </table>
   <div>
 
+    
+# Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux&perline=1" alt="Tools & Platforms" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ubuntu&perline=1" alt="Tools & Platforms" />
+</p>
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
