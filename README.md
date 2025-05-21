@@ -63,15 +63,19 @@ I am Mohammed Khaleelulah, a Data Engineer with one year of industry experience 
 
     
 # Tools & Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux&perline=1" alt="Tools & Platforms" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ubuntu&perline=1" alt="Tools & Platforms" />
-</p>
-<p align="center">
-  <img src="[https://skillicons.dev/icons?i=ubuntu&perline=1](https://techstack-generator.vercel.app/github-icon.svg)" alt="Tools & Platforms" />
-</p>
+<div style="display: flex; align-items: flex-start; align: center">
+  <table align="center">
+    <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=linux&perline=1" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
+      <br>Linux
+    </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
+      <br>docker
+    </td>
+</table>
+<div>
 
 
 ### ✍️ Random Dev Quote
