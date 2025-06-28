@@ -120,10 +120,6 @@ I am Mohammed Khaleelulah, a Data Engineer with one year of industry experience 
       <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="48" height="48" />
       <br>MongoDB
     </td>
-  <td align="center" width="96">
-      <img src="https://avatars.githubusercontent.com/u/17219288?s=280&v=4" alt="Prisma" width="65" height="65" />
-      <br>Prisma
-    </td>
 </table>
 
 ### ✍️ Random Dev Quote
