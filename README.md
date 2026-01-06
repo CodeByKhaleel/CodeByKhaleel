@@ -124,6 +124,3 @@ I am Mohammed Khaleelulah, a Data Engineer with one year of industry experience 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=CodeByKhaleel&icon=0&color=0)](https://visitcount.itsvg.in)
