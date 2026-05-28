@@ -1,126 +1,265 @@
-# 💫 About Me:
-I am Mohammed Khaleelulah, a Data Engineer with one year of industry experience specializing in TypeScript and Node.js. I have expertise in web scraping using Playwright and a strong foundation in MongoDB, NestJS, and web development. I am passionate about building efficient and scalable solutions, with a goal to become a full-stack developer. I continuously seek opportunities to enhance my skills in front-end frameworks like React and backend technologies, aiming to deliver impactful, user-centric applications.
+# Mohammed Khaleelulah
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammedkhaleelulah/)
+<div align="center">
 
----
+### Data Engineer • Full Stack Developer • AI Automation Builder
 
-# 💻 Favorite Technologies
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="48" height="48" />
-      <br>Node.js
-    </td>
-  </tr>
-  <tr>
-      <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br>HTML
-    </td>
-     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" alt="React" width="48" height="48" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="65" height="65" />
-      <br>Next.js
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="48" height="48" />
-      <br>Tailwind
-    </td>
-      <td align="center" width="96">
-      <img src="https://nestjs.com/img/logo-small.svg" alt="NestJS" width="65" height="65" />
-      <br>NestJS
-    </td>
-    <td align="center" width="96" style="background-color: white; border-radius: 8px;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js" width="65" height="65" />
-      <br>Express
-    </td>
-  </tr>
-</table>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Data+Engineer+%7C+TypeScript+Developer;Building+Scalable+Automation+Systems;Web+Scraping+%7C+Full+Stack+Development;NestJS+%7C+MongoDB+%7C+React+%7C+AI+Agents" />
+
+</div>
 
 ---
 
-# 🛠️ Tools & Platforms
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="48" height="48" />
-      <br>Linux
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" alt="Bitbucket" width="65" height="65" />
-      <br>Bitbucket
-    </td>
-    <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="65" height="65" />
-      <br>Postman
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96" style="background-color: white; border-radius: 8px;">
-      <img src="https://assets.vercel.com/image/upload/v1607554385/repositories/vercel/logo.png" alt="Vercel" width="65" height="65" />
-      <br>Vercel
-    </td>
-      <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
-      <br>GitHub
-    </td>
-      <td align="center" width="96">
-      <img src="https://jupyter.org/assets/homepage/main-logo.svg" width="65" height="65" alt="JupyterLab" />
-      <br>JupyterLab
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Slack_Icon.png" width="65" height="65" alt="Slack" />
-      <br>Slack
-    </td>
-     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="65" height="65" alt="VSCode" />
-      <br>VSCode
-    </td>
-  </tr>
-</table>
+# 💫 About Me
+
+I’m **Mohammed Khaleelulah**, a passionate **Data Engineer** with 2+ years of experience building scalable automation systems, ETL pipelines, and backend applications.
+
+I specialize in:
+
+* High-scale web scraping using Playwright & Scrapy
+* Backend architecture with Node.js, NestJS & MongoDB
+* Full-stack development with React & Next.js
+* Real-time data systems & automation workflows
+* AI-powered applications and LLM integrations
+
+I enjoy building systems that combine:
+
+* Automation
+* Scalability
+* Analytics
+* Real-time infrastructure
+* AI orchestration
+
+Currently focused on:
+
+* Advanced backend engineering
+* AI agents & automation systems
+* System design & architecture
+* Full-stack SaaS applications
+* Generative AI & RAG pipelines
 
 ---
 
-# 🛠️ Database
-<table align="center">
-<td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="48" height="48" />
-      <br>MongoDB
-    </td>
-</table>
+# 🚀 Current Focus
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+* 🔥 Building AI-powered automation systems
+* ⚡ Learning advanced system design
+* 🧠 Exploring LLM agents, RAG & orchestration
+* 📊 Building analytics dashboards & data systems
+* 🌐 Becoming a strong full-stack engineer
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/mohammedkhaleelulah/">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+</a>
+
+</div>
+
+---
+
+# 💻 Tech Stack
+
+<div align="center">
+
+## Languages
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,sql" />
+
+## Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
+
+## Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi" />
+
+## Database & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=mongodb,redis,docker,aws" />
+
+## Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,bitbucket,linux,vscode,postman,vercel" />
+
+</div>
+
+---
+
+# 🛠 Featured Projects
+
+## 🤖 Robotic Process Automation – Student Application System
+
+### Overview
+
+Built an end-to-end automation platform to auto-fill and submit student applications using event-driven architecture and real-time processing systems.
+
+### Key Achievements
+
+* Reduced application processing time from **10 minutes → under 5 minutes**
+* Eliminated repetitive manual workflows
+* Improved data accuracy through automated validation
+* Built scalable distributed processing architecture
+
+### Features
+
+* Automated form filling & submission
+* Multi-source data extraction
+* Real-time task orchestration
+* Event-driven workflow processing
+* Validation & retry mechanisms
+
+### Tech Stack
+
+`Node.js` `Playwright` `Python` `FastAPI` `React` `TypeScript` `Redis` `RabbitMQ` `MongoDB`
+
+---
+
+## 📊 Partnership Analytics Dashboard
+
+### Overview
+
+Built a business analytics dashboard to monitor partner performance, growth trends, and operational insights.
+
+### Key Achievements
+
+* Improved dashboard performance by **~35%**
+* Enabled business teams to make decisions **40% faster**
+* Reduced redundant queries using Redis caching
+
+### Features
+
+* Real-time analytics dashboard
+* Interactive Chart.js visualizations
+* Partner growth tracking
+* Demand & performance insights
+* Cached analytics pipelines
+
+### Tech Stack
+
+`Node.js` `TypeScript` `Express.js` `MongoDB` `Redis` `Chart.js` `Tailwind CSS`
+
+---
+
+# 💼 Experience
+
+## Data Engineer — Edvoy
+
+📍 May 2024 – Present
+
+* Designed scalable ETL pipelines and automation workflows
+* Improved data processing efficiency by **30%**
+* Built real-time data processing systems using Node.js
+* Managed MongoDB infrastructure with performance optimization
+* Worked on analytics and reporting systems
+
+---
+
+## Data Engineering Intern — Edvoy
+
+📍 Jan 2024 – Apr 2024
+
+* Scraped & validated data from 80+ universities
+* Built Playwright-based scraping systems
+* Improved reporting data freshness & accuracy
+* Assisted in large-scale data engineering workflows
+
+---
+
+# 🧠 Skills
+
+## Languages
+
+* Python
+* TypeScript
+* SQL
+* JavaScript
+
+## Frameworks & Libraries
+
+* Node.js
+* NestJS
+* Express.js
+* FastAPI
+* React
+* Next.js
+* Scrapy
+* Playwright
+
+## Data & Infrastructure
+
+* MongoDB
+* Redis
+* RabbitMQ
+* Apache Spark
+* dbt
+* ETL Pipelines
+* REST APIs
+* AWS (S3, EC2)
+
+## AI & ML
+
+* Generative AI
+* RAG Systems
+* Prompt Engineering
+* LLM Integration
+
+## Tools & DevOps
+
+* Git
+* GitHub
+* Bitbucket
+* Docker
+* Linux
+
+---
+
+# 📜 Certifications
+
+* 🏅 Build RAG Applications: Get Started — IBM
+* 🏅 Develop Generative AI Applications: Get Started — IBM
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=CodeByKhaleel\&theme=tokyonight\&hide_border=false\&include_all_commits=true\&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=CodeByKhaleel\&theme=tokyonight\&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByKhaleel\&theme=tokyonight\&hide_border=false\&layout=compact)
+
+</div>
+
+---
+
+# ⚡ Developer Mindset
+
+```ts
+while (!success) {
+    learn();
+    build();
+    fail();
+    improve();
+}
+```
+
+---
+
+# ✍️ Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
+
+---
+
+<div align="center">
+
+### “Consistency compounds into mastery.”
+
+</div>
