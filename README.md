@@ -143,6 +143,7 @@ Built a business analytics dashboard to monitor partner performance, growth tren
 
 `Node.js` `TypeScript` `Express.js` `MongoDB` `Redis` `Chart.js` `Tailwind CSS`
 
+Link - https://retail-ops-dashboard-9faf.vercel.app/
 ---
 
 # 💼 Experience
