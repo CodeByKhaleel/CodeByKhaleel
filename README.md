@@ -226,20 +226,6 @@ Link - https://retail-ops-dashboard-9faf.vercel.app/
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=CodeByKhaleel\&theme=tokyonight\&hide_border=false\&include_all_commits=true\&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=CodeByKhaleel\&theme=tokyonight\&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByKhaleel\&theme=tokyonight\&hide_border=false\&layout=compact)
-
-</div>
-
----
-
 # ⚡ Developer Mindset
 
 ```ts
