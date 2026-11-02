@@ -1,252 +1,56 @@
-# Mohammed Khaleelulah
+# Mohammed Khaleelullah
 
-<div align="center">
+**Data Engineer · Data extraction, ETL & workflow automation**
 
-### Data Engineer • Full Stack Developer • AI Automation Builder
+I build data extraction pipelines and automation workflows that turn messy, inconsistent information into dependable data. At Edvoy, I work across scraping, data preparation, validation, and operational workflows, with a focus on understanding the problem and its edge cases before building a solution.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Data+Engineer+%7C+TypeScript+Developer;Building+Scalable+Automation+Systems;Web+Scraping+%7C+Full+Stack+Development;NestJS+%7C+MongoDB+%7C+React+%7C+AI+Agents" />
+I'm currently deepening my knowledge of modern data platforms, including Azure and Databricks, and exploring generative AI and retrieval-augmented generation (RAG).
 
-</div>
+[Portfolio](https://www.mohammed-khaleelullah.in/) · [LinkedIn](https://www.linkedin.com/in/mohammedkhaleelulah/) · [Email](mailto:mkhaleelullah01@gmail.com)
 
----
+## What I work with
 
-# 💫 About Me
+- **Languages:** Python, TypeScript, JavaScript, SQL
+- **Data engineering:** extraction, ETL, normalization, validation, data quality, and reconciliation
+- **Extraction & automation:** Playwright, Scrapy, browser automation, and configurable workflows
+- **Data & services:** MongoDB, MySQL, Node.js, and APIs
+- **Currently learning:** Azure, Databricks, and broader data engineering practices
+- **Exploring:** generative AI, RAG, and AI-assisted workflows
 
-I’m **Mohammed Khaleelulah**, a passionate **Data Engineer** with 2+ years of experience building scalable automation systems, ETL pipelines, and backend applications.
+## Selected work
 
-I specialize in:
+### [Turning Repetitive Submissions into Repeatable Workflows](https://www.mohammed-khaleelullah.in/projects/repeatable-workflows/)
 
-* High-scale web scraping using Playwright & Scrapy
-* Backend architecture with Node.js, NestJS & MongoDB
-* Full-stack development with React & Next.js
-* Real-time data systems & automation workflows
-* AI-powered applications and LLM integrations
+A configuration-driven workflow for processing submissions across portals with different fields, formats, and verification steps. I designed the JSON configuration model and workflow editor, built data preparation and conditional logic, and implemented human handoffs, retries, and status handling.
 
-I enjoy building systems that combine:
+The latest approved project snapshot includes **3,000+ submissions**, **70+ portal workflows**, and **1,200+ hours saved**. The 94% success rate excludes intentional user cancellations; figures change as the system is used. The browser automation, extension, and messaging components also involved contributions from teammates.
 
-* Automation
-* Scalability
-* Analytics
-* Real-time infrastructure
-* AI orchestration
+### [University Course and Intake Data Collection](https://www.mohammed-khaleelullah.in/projects/university-data-collection/)
 
-Currently focused on:
+Built and maintained TypeScript and Playwright extraction scripts for university websites. I created **37 scripts** and contributed updates across **72 universities**, with generated files reviewed through quality control before CRM import.
 
-* Advanced backend engineering
-* AI agents & automation systems
-* System design & architecture
-* Full-stack SaaS applications
-* Generative AI & RAG pipelines
+### [Education Partner Priority Dashboard](https://www.mohammed-khaleelullah.in/projects/partner-priority-dashboard/)
 
----
+A solo hackathon-winning prototype for exploring education partner records through filters, charts, and a searchable table. I designed the architecture and business rules, then reviewed and refined AI-generated code. A [public retail mockup](https://www.mohammed-khaleelullah.in/projects/retail-operations-dashboard/) demonstrates the concept using sample data.
 
-# 🚀 Current Focus
+### [University Entry Requirement Monitoring](https://www.mohammed-khaleelullah.in/projects/entry-requirement-monitoring/)
 
-* 🔥 Building AI-powered automation systems
-* ⚡ Learning advanced system design
-* 🧠 Exploring LLM agents, RAG & orchestration
-* 📊 Building analytics dashboards & data systems
-* 🌐 Becoming a strong full-stack engineer
+Supported a colleague-led monitoring workflow through script maintenance, quality checks, documentation, scheduled checkpoints, and data updates.
 
----
+## Experience
 
-# 🌐 Connect With Me
+- **Data Engineer · Edvoy** — July 2024–present
+- **Junior Data Engineer · Edvoy** — May–June 2024
+- **Data Engineering Intern · Edvoy** — January–April 2024
 
-<div align="center">
+## Education & certifications
 
-<a href="https://www.linkedin.com/in/mohammedkhaleelulah/">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
-</a>
+**B.Sc. in Computer Science** — Bharath Institute of Science and Technology, Chennai
 
-</div>
+- [Build RAG Applications: Get Started](https://coursera.org/verify/73BSR8SSYM7I) — IBM via Coursera
+- [Develop Generative AI Applications: Get Started](https://coursera.org/verify/VT22NCXYNLLI) — IBM via Coursera
+- [Foundations of Data Science](https://coursera.org/verify/DU1FEL36CUJ8) — Google via Coursera
 
----
+## Other work
 
-# 💻 Tech Stack
-
-<div align="center">
-
-## Languages
-
-<img src="https://skillicons.dev/icons?i=js,ts,python,sql" />
-
-## Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
-
-## Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi" />
-
-## Database & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=mongodb,redis,docker,aws" />
-
-## Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,bitbucket,linux,vscode,postman,vercel" />
-
-</div>
-
----
-
-# 🛠 Featured Projects
-
-## 🤖 Robotic Process Automation – Student Application System
-
-### Overview
-
-Built an end-to-end automation platform to auto-fill and submit student applications using event-driven architecture and real-time processing systems.
-
-### Key Achievements
-
-* Reduced application processing time from **10 minutes → under 5 minutes**
-* Eliminated repetitive manual workflows
-* Improved data accuracy through automated validation
-* Built scalable distributed processing architecture
-
-### Features
-
-* Automated form filling & submission
-* Multi-source data extraction
-* Real-time task orchestration
-* Event-driven workflow processing
-* Validation & retry mechanisms
-
-### Tech Stack
-
-`Node.js` `Playwright` `Python` `FastAPI` `React` `TypeScript` `Redis` `RabbitMQ` `MongoDB`
-
----
-
-## 📊 Partnership Analytics Dashboard
-
-### Overview
-
-Built a business analytics dashboard to monitor partner performance, growth trends, and operational insights.
-
-### Key Achievements
-
-* Improved dashboard performance by **~35%**
-* Enabled business teams to make decisions **40% faster**
-* Reduced redundant queries using Redis caching
-
-### Features
-
-* Real-time analytics dashboard
-* Interactive Chart.js visualizations
-* Partner growth tracking
-* Demand & performance insights
-* Cached analytics pipelines
-
-### Tech Stack
-
-`Node.js` `TypeScript` `Express.js` `MongoDB` `Redis` `Chart.js` `Tailwind CSS`
-
-Link - https://retail-ops-dashboard-9faf.vercel.app/
----
-
-# 💼 Experience
-
-## Data Engineer — Edvoy
-
-📍 May 2024 – Present
-
-* Designed scalable ETL pipelines and automation workflows
-* Improved data processing efficiency by **30%**
-* Built real-time data processing systems using Node.js
-* Managed MongoDB infrastructure with performance optimization
-* Worked on analytics and reporting systems
-
----
-
-## Data Engineering Intern — Edvoy
-
-📍 Jan 2024 – Apr 2024
-
-* Scraped & validated data from 80+ universities
-* Built Playwright-based scraping systems
-* Improved reporting data freshness & accuracy
-* Assisted in large-scale data engineering workflows
-
----
-
-# 🧠 Skills
-
-## Languages
-
-* Python
-* TypeScript
-* SQL
-* JavaScript
-
-## Frameworks & Libraries
-
-* Node.js
-* NestJS
-* Express.js
-* FastAPI
-* React
-* Next.js
-* Scrapy
-* Playwright
-
-## Data & Infrastructure
-
-* MongoDB
-* Redis
-* RabbitMQ
-* Apache Spark
-* dbt
-* ETL Pipelines
-* REST APIs
-* AWS (S3, EC2)
-
-## AI & ML
-
-* Generative AI
-* RAG Systems
-* Prompt Engineering
-* LLM Integration
-
-## Tools & DevOps
-
-* Git
-* GitHub
-* Bitbucket
-* Docker
-* Linux
-
----
-
-# 📜 Certifications
-
-* 🏅 Build RAG Applications: Get Started — IBM
-* 🏅 Develop Generative AI Applications: Get Started — IBM
-
----
-
-# ⚡ Developer Mindset
-
-```ts
-while (!success) {
-    learn();
-    build();
-    fail();
-    improve();
-}
-```
-
----
-
-# ✍️ Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
-
----
-
-<div align="center">
-
-### “Consistency compounds into mastery.”
-
-</div>
+[ContextCraft](https://context-craft.vercel.app/) is an AI-built learning site exploring prompting, context, workflows, and AI tools.
